@@ -1,0 +1,22 @@
+Abstract Window Toolkit has many Components
+-->Canvas
+-->Frame
+
+
+Design Canvas using Applet runs on Browser
+Pixel
+
+
+
+Canvas-->Applet
+1) Shapes (Circle, rectangle, Line, Curve,Oval,Polygon.....)
+
+2) Frames-->AWT--> import java.awt.*
+Textboxes,
+labels
+Buttons
+Radio
+Checkboxes........
+Customize (Change color, shapes,fonts.....)
+
+
